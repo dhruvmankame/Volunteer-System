@@ -113,11 +113,11 @@ export default function Register() {
               
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <InputWrapper icon={User} label="Full Name">
-                  <input name="fullName" type="text" required value={formData.fullName} onChange={e => setFormData({...formData, fullName: e.target.value})} className={inputClasses} placeholder="John Doe" />
+                  <input name="fullName" type="text" required value={formData.fullName} onChange={e => setFormData({...formData, fullName: e.target.value})} className={inputClasses} placeholder="Aarav Patel" />
                 </InputWrapper>
 
                 <InputWrapper icon={Mail} label="Email Address">
-                  <input name="email" type="email" required value={formData.email} onChange={e => setFormData({...formData, email: e.target.value})} className={inputClasses} placeholder="john@example.com" />
+                  <input name="email" type="email" required value={formData.email} onChange={e => setFormData({...formData, email: e.target.value})} className={inputClasses} placeholder="aarav@gmail.com" />
                 </InputWrapper>
               </div>
 
