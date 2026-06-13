@@ -12,8 +12,6 @@ A complete Full Stack web application built for the **NayePankh Foundation Inter
 
 ## 🎯 Purpose
 
-This project was developed as the practical submission for the **Full Stack Development Internship** at NayePankh Foundation. 
-
 The primary goal was to digitize and automate the volunteer onboarding process, moving away from manual entry and creating a centralized, secure database for the organization to easily manage their growing community of change-makers.
 
 ### ✨ Features Implemented (Including All Bonus Requirements)
